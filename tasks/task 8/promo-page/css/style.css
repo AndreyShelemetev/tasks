@@ -7,7 +7,7 @@
     width: 61px;
     height: 24px;
     object-fit: contain;
-    font-family: CreteRound;
+    font-family: 'Crete Round', serif;
     font-size: 34px;
     font-weight: normal;
     font-stretch: normal;
@@ -20,9 +20,9 @@
 
 .main_content .main_text {
     margin: 89px 0 0 0;
-    width: 492px;
+    width: 498px;
     height: 186px;
-    font-family: CreteRound;
+    font-family: 'Crete Round', sans-serif;
     font-size: 58px;
     font-weight: normal;
     font-stretch: normal;
@@ -35,9 +35,9 @@
 
 .main_content .text {
     margin: 36px 0 47px 0;
-    width: 416px;
+    width: 420px;
     height: 70px;
-    font-family: Lato;
+    font-family: 'Lato', sans-serif;
     font-size: 15px;
     font-weight: normal;
     font-stretch: normal;
@@ -49,7 +49,7 @@
 }
 
 .main_content .article_button {
-    font-family: 'Lato';
+    font-family: 'Lato', sans-serif;
     font-size: 15px;
     display: inline-block;
     border-radius: 25px;
