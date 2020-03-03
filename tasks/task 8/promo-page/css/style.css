@@ -1,0 +1,90 @@
+.main_content {
+    margin: 60px auto 29px;
+    max-width: 492px;
+}
+
+.main_content .logo {
+    width: 61px;
+    height: 24px;
+    object-fit: contain;
+    font-family: CreteRound;
+    font-size: 34px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.26;
+    letter-spacing: 1.7px;
+    text-align: left;
+    color: #060c31;
+}
+
+.main_content .main_text {
+    margin: 89px 0 0 0;
+    width: 492px;
+    height: 186px;
+    font-family: CreteRound;
+    font-size: 58px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.1;
+    letter-spacing: 2.9px;
+    text-align: left;
+    color: #060c31;
+}
+
+.main_content .text {
+    margin: 36px 0 47px 0;
+    width: 416px;
+    height: 70px;
+    font-family: Lato;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.87;
+    letter-spacing: 0.75px;
+    text-align: left;
+    color: #060c31;
+}
+
+.main_content .article_button {
+    font-family: 'Lato';
+    font-size: 15px;
+    display: inline-block;
+    border-radius: 25px;
+    line-height: 1.87;
+    box-shadow: none;
+    cursor: pointer;
+    outline: none;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.75px;
+}
+
+.main_content .article_button.start {
+
+    color: #fff;
+    background-color: #233fe2;
+    border: none;
+    width: 152px;
+    height: 50px;
+}
+
+
+.main_content .article_button.create {
+    background-color: #fff;
+    width: 164px;
+    height: 50px;
+    border: solid 1px #ffb0b1;
+    color: #060c31;
+    margin: 0 0 0 20px;
+}
+
+.main_content .clipart {
+    width: 717px;
+    height: 569px;
+    margin: 0 0 0 -29px;
+    object-fit: contain;
+}
